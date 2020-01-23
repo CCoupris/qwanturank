@@ -1,23 +1,25 @@
-* {
+
+/* FONT */
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
+
+
+* 
+{
   background-color: #E7E7E7;
 }
 
-h1 
-{
-  color: #000;
-  font-size: 30px;
-}
-
 /* HEADER */
-header{
+header
+{
   display: flex;
   justify-content: space-between;
 }
 
-.logo-image
+.logo
 {
   height: 33px;
   width: 40px;
+  margin: 20px;
 }
 
 .nav-bar
@@ -27,12 +29,37 @@ header{
   flex-direction: row;
 }
 
+ul
+{
+  font-family: 'Bebas Neue', cursive;
+  color: #D67C43;
+  margin-right: 70px;
+  font-size: 20px;
+}
+
 /* MAIN */
+main 
+{
+  margin: 50px;
+}
+
 main h1
 {
   color: #CC616D;
   font-size: 34px;
-  margin-left: 10px;
+  font-family: 'Bebas Neue', cursive;
+
+}
+main h2
+{
+  font-size: 28px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+main p 
+{
+  font-family: 'Nunito', sans-serif;
+
 }
 
 .seo-part
