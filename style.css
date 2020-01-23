@@ -8,20 +8,13 @@ body {
   font: 16px sans-serif;
   font-family: 'Nunito', sans-serif;
   margin: 0;
+  background-color: #E7E7E7;
 }
 
 h1, h2, h3, h4, p, ul {
   margin: 0;
   padding: 0;
   list-style: none;
-}
-
-
-
-
-*
-{
-  background-color: #E7E7E7;
 }
 
 /* HEADER */
@@ -52,7 +45,7 @@ header
 ul
 {
   font-family: 'Bebas Neue', cursive;
-  color: #D67C43;
+  color: #FFF;
   margin-right: 70px;
   font-size: 20px;
 }
