@@ -6,6 +6,7 @@
 
 body {
   font: 16px sans-serif;
+  font-family: 'Nunito', sans-serif;
   margin: 0;
 }
 
@@ -15,11 +16,10 @@ h1, h2, h3, h4, p, ul {
   list-style: none;
 }
 
-/* FONT */
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
 
 
-* 
+
+*
 {
   background-color: #E7E7E7;
 }
@@ -54,7 +54,7 @@ ul
 }
 
 /* MAIN */
-main 
+main
 {
   margin: 50px;
 }
@@ -72,7 +72,7 @@ main h2
   font-family: 'Bebas Neue', cursive;
 }
 
-main p 
+main p
 {
   font-family: 'Nunito', sans-serif;
 
