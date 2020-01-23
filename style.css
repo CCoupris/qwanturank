@@ -14,9 +14,46 @@ header{
   justify-content: space-between;
 }
 
+.logo-image
+{
+  height: 33px;
+  width: 40px;
+}
+
 .nav-bar
 {
   display: flex;
   justify-content: end;
   flex-direction: row;
+}
+
+/* MAIN */
+main h1
+{
+  color: #CC616D;
+  font-size: 34px;
+  margin-left: 10px;
+}
+
+.seo-part
+{
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+
+.seo-information
+{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.seo-information h2
+{
+  color:#CC616D;
+}
+
+.seo-text
+{
+  color: #D67C43;
 }
