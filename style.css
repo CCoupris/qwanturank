@@ -20,9 +20,10 @@ h1, h2, h3, h4, p, ul {
 /* HEADER */
 header
 {
+  height: 50px;
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   background: linear-gradient(90deg, #E6AD84 0%, #D77F3F 61.46%, rgba(215, 63, 91, 0.71) 100%);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 0px 0px 10px 10px;
@@ -32,7 +33,7 @@ header
 {
   height: 33px;
   width: 40px;
-  margin: 20px;
+  margin-left: 10px;
 }
 
 .nav-bar
