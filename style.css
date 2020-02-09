@@ -96,5 +96,48 @@ main p
 
 .seo-text
 {
+  margin-top: 20px;
   color: #D67C43;
+}
+
+main .seo-history
+{
+  margin-top: 80px;
+}
+
+main .seo-history h2
+{
+  color:#CC616D;
+}
+main .seo-history .seo-text
+{
+  margin-top: 20px;
+}
+
+main .seo-issues
+{
+  margin-top: 80px;
+}
+
+main .seo-issues h2
+{
+  color:#CC616D;
+}
+
+main .seo-issues .seo-issues-part-one
+{
+  margin-top: 20px;
+  display: flex
+}
+
+main .seo-issues .seo-issues-part-one .seo-img
+{
+  padding-left: 15em;
+  justify-content: flex-end;
+}
+
+main .seo-issues .seo-issues-part-two
+{
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
