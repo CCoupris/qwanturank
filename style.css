@@ -72,6 +72,12 @@ main h2
   font-size: 28px;
   font-family: 'Bebas Neue', cursive;
 }
+main h3
+{
+  color: #CC616D;
+  font-size: 24px;
+  font-family: 'Bebas Neue', cursive;
+}
 
 main p
 {
