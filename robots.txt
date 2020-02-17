@@ -1,3 +1,3 @@
-User-Agent: * 
-Disallow: /
+User-Agent: Qwantify
+Allow: /
 Sitemap: http://qwant.run/sitemap.xml
