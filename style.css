@@ -79,6 +79,12 @@ main p
 
 }
 
+a
+{
+  text-decoration: none;
+  color: #CC616D;
+}
+
 .seo-images
 {
   margin: 30px 0;
@@ -130,4 +136,23 @@ main .seo-history .seo-text
   {
     margin: 30px;
   }
+}
+
+
+/* FOOTER */
+footer
+{
+  background: linear-gradient(90deg, #E6AD84 0%, #D77F3F 61.46%, rgba(215, 63, 91, 0.71) 100%);
+}
+
+footer p, footer a
+{ 
+  color: white;
+}
+
+.collab
+{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
 }
