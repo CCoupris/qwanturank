@@ -57,7 +57,7 @@ header
 /* MAIN */
 main
 {
-  margin: 50px;
+  margin: 20px;
 }
 
 main h1
@@ -114,8 +114,12 @@ main .seo-history .seo-text
 
 /* RESPONSIVE */
 
-@media only screen and (min-width: 960px)
+@media only screen and (min-width: 1024px)
 {
+  main
+  {
+    margin: 50px;
+  }
   .seo-part
   {
     display: flex;
