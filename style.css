@@ -39,16 +39,19 @@ header
 .nav-bar
 {
   display: flex;
-  justify-content: end;
-  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
 
-ul
+.nav-links
 {
+  display: flex;
+  justify-content: space-around;
   font-family: 'Bebas Neue', cursive;
   color: #FFF;
   margin-right: 70px;
   font-size: 20px;
+  width: 200px;
 }
 
 /* MAIN */
@@ -141,3 +144,4 @@ main .seo-issues .seo-issues-part-two
   margin-top: 20px;
   margin-bottom: 50px;
 }
+
