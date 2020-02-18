@@ -83,7 +83,7 @@ main h3
 main p
 {
   font-family: 'Nunito', sans-serif;
-
+  color: #D67C43;
 }
 
 a
@@ -124,7 +124,6 @@ main .seo-history .seo-text
   margin-top: 20px;
 }
 
-
 /* RESPONSIVE */
 
 @media only screen and (min-width: 1024px)
@@ -155,6 +154,11 @@ footer
 footer p, footer a
 { 
   color: white;
+}
+
+.social-network a
+{
+  margin: 5px 10px;
 }
 
 .collab
