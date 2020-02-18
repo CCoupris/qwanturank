@@ -124,6 +124,12 @@ main .seo-history .seo-text
   margin-top: 20px;
 }
 
+.groupes-links
+{
+  font-size: 18px;
+  margin: 5px 5px;
+}
+
 /* RESPONSIVE */
 
 @media only screen and (min-width: 1024px)
